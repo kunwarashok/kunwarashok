@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/8Lgc6Mcz" width="150" style="border-radius:50%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Ashok%20Kunwar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Kathmandu%2C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
